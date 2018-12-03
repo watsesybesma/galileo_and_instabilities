@@ -1,7 +1,0 @@
-\contentsline {section}{\numberline {1}Complexity growth of small hyperbolic black holes: is something missing?}{1}{section.1}
-\contentsline {section}{\numberline {2}What's the entropy of higher genus black holes?}{3}{section.2}
-\contentsline {section}{\numberline {3}Near-extremal higher genus black holes and the JT-model}{5}{section.3}
-\contentsline {section}{\numberline {4}Toplogical black holes with charge and the JT-model}{8}{section.4}
-\contentsline {section}{\numberline {5}Lyupanov exponet computation}{11}{section.5}
-\contentsline {subsection}{\numberline {5.1}Convention and Kruskal coordinate setting}{11}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Shock wave solution}{12}{subsection.5.2}
