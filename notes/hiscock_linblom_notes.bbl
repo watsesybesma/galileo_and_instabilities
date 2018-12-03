@@ -1,0 +1,19 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{Hiscock:1983zz}
+W.~A. Hiscock and L.~Lindblom, {\it {Stability and causality in dissipative
+  relativistic fluids}},  {\em Annals Phys.} {\bf 151} (1983) 466--496.
+%%CITATION = APNYA,151,466;%%
+
+\bibitem{Kovtun:2012rj}
+P.~Kovtun, {\it {Lectures on hydrodynamic fluctuations in relativistic
+  theories}},  {\em J. Phys.} {\bf A45} (2012) 473001
+  [\href{http://arXiv.org/abs/1205.5040}{{\tt 1205.5040}}].
+%%CITATION = ARXIV:1205.5040;%%
+
+\bibitem{Jensen:2014ama}
+K.~Jensen, {\it {Aspects of hot Galilean field theory}},  {\em JHEP} {\bf 04}
+  (2015) 123 [\href{http://arXiv.org/abs/1411.7024}{{\tt 1411.7024}}].
+%%CITATION = ARXIV:1411.7024;%%
+
+\end{thebibliography}\endgroup

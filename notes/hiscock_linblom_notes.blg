@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: hiscock_linblom_notes.aux
+The style file: JHEP-2.bst
+Database file #1: ref.bib
+"-" can't start a style-file command---line 2183 of file JHEP-2.bst
+ : 
+ : --Boundary_(ID_83ETiXpi6fr1CohpRcMVUQ)--
+(Error may have been on previous line)
+You've used 3 entries,
+            2125 wiz_defined-function locations,
+            529 strings with 3949 characters,
+and the built_in function-call counts, 974 in all, are:
+= -- 100
+> -- 15
+< -- 0
++ -- 7
+- -- 4
+* -- 67
+:= -- 138
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 59
+empty$ -- 100
+format.name$ -- 4
+if$ -- 256
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 12
+newline$ -- 15
+num.names$ -- 3
+pop$ -- 12
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 43
+stack$ -- 0
+substring$ -- 46
+swap$ -- 29
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 7
+width$ -- 4
+write$ -- 37
+(There was 1 error message)
